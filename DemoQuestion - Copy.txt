@@ -1,0 +1,43 @@
+1, Có bao nhiêu số có một chữ số:
+a, 10
+b, 9
+c, 8
+d, 90
+key: a
+***
+2, Số liền trước số lớn nhất có một chữ số là số:
+a, 8
+b, 9
+c, 10
+d, 11
+key: a
+***
+3, Số liền sau số lớn nhất có hai chữ số là số:
+a, 10
+b, 9
+c, 99
+d, 100
+key: d
+***
+4, Số liền sau số bé nhất có hai chữ số là:
+a, 9
+b, 10
+c, 11
+d, 12
+key: c
+***
+5, Dãy số nào sau đây được xếp theo thứ tự từ bé đến lớn:
+a, 95; 83; 65; 52; 20
+b, 25; 30; 42; 86; 60
+c, 24; 32; 65; 82; 90
+d, 12; 15; 42; 52; 25
+key: c
+***
+6, Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không? :
+a, Được mang, vác tùy trường hợp cụ thể
+b, Không được mang, vác
+c, Được mang, vác nhưng phải đảm bảo an toàn
+d, Được mang, vác tùy theo sức khỏe của bản thân
+key: b
+***
+
